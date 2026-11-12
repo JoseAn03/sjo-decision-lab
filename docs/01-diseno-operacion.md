@@ -1,1 +1,131 @@
-IyBNaXNpw7NuIDEg4oCUIERpc2XDsW8gZGUgbGEgb3BlcmFjacOzbgoKPiAqKkVzdGFkbzoqKiB2MS4wIMK3ICoqRW50cmVnYWJsZToqKiBkb2N1bWVudG8gZGUgZGlzZcOxbyBkZSBzdWN1cnNhbGVzLCBjYXRlZ29yw61hcyBkZSBhdXRvIHkgY2FuYWxlcyBkZSByZXNlcnZhIMK3ICoqRGF0b3M6KiogYGRhdGEvZGVzaWduL2AKCiMjIDEuIFJlc3VtZW4KCkVsIFNKTyBEZWNpc2lvbiBMYWIgc2ltdWxhIHVuYSByZW50YWRvcmEgZGUgYXV0b3MgY29uIG9wZXJhY2nDs24gZW4gZWwgQWVyb3B1ZXJ0byBJbnRlcm5hY2lvbmFsIEp1YW4gU2FudGFtYXLDrWEgKFNKTykgeSBlbiBCZWzDqW4uIFRvZGEgbGEgb3BlcmFjacOzbiBlcyAqKjEwMCUgc2ludMOpdGljYSoqLiBTdXMgcGFyw6FtZXRyb3Mgc2UgY2FsaWJyYW4gY29uIGVzdGFkw61zdGljYXMgYWdyZWdhZGFzIGRlIHVuIG1hbmlmaWVzdG8gc2VtYW5hbCBkZSByZXNlcnZhcyB5IGNvbiBkYXRvcyBww7pibGljb3MgZGUgdHVyaXNtbyBkZSBDb3N0YSBSaWNhLCBzaW4gY29waWFyIG5pbmfDum4gcmVnaXN0cm8gcmVhbC4KCnwgRWxlbWVudG8gfCBEaXNlw7FvIHwKfC0tLXwtLS18CnwgU2VkZXMgfCAyOiBTSk8gYWVyb3B1ZXJ0byB5IEJlbMOpbiB8CnwgTWFyY2FzIHwgMzogZGUgdm9sdW1lbiwgaW50ZXJtZWRpYSB5IHByZW1pdW0gfAp8IE9maWNpbmFzIHwgNiAoMiBzZWRlcyDDlyAzIG1hcmNhcykgfAp8IENhdGVnb3LDrWFzIGRlIGF1dG8gfCA4IChhZ3J1cGFuIDQ2IGNsYXNlcyBBQ1JJU1MpIHwKfCBDYW5hbGVzIGRlIHJlc2VydmEgfCAzIChtYXJjYSBkaXJlY3RvLCBhZ2VuY2lhLCBhZ2VudGUvbW9zdHJhZG9yKSB8CgojIyAyLiBQcmluY2lwaW9zIGRlIGRpc2XDsW8KCjEuICoqU2ludMOpdGljbyBwb3IgY29uc3RydWNjacOzbi4qKiBFbCByZXBvc2l0b3JpbyBubyBjb250aWVuZSBub21icmVzLCBuw7ptZXJvcyBkZSByZXNlcnZhIG5pIGRhdG9zIGRlIGNvbnRhY3RvLiBTb2xvIHByb3BvcmNpb25lcyB5IG1lZGlhbmFzIHJlZG9uZGVhZGFzLgoyLiAqKkNhbGlicmFkbywgbm8gY29waWFkby4qKiBDYWRhIHBhcsOhbWV0cm8gdGllbmUgdW5hIGZ1ZW50ZSAobWFuaWZpZXN0byBhZ3JlZ2FkbyBvIGRhdG8gcMO6YmxpY28pIHkgZXN0w6EgZW4gdW4gQ1NWIHZlcnNpb25hZG8uCjMuICoqRXNjYWxhYmxlLioqIEFncmVnYXIgdW5hIHNlZGUgbyB1bmEgbWFyY2EgZXMgYWdyZWdhciB1bmEgZmlsYSwgbm8gcmVlc2NyaWJpciBlbCBtb2RlbG8uCjQuICoqUmVwcm9kdWNpYmxlLioqIGBzY3JpcHRzL2NhbGlicmF0ZV9mcm9tX21hbmlmZXN0LnB5YCByZWdlbmVyYSBsYXMgdGFibGFzOyBgc2NyaXB0cy92YWxpZGF0ZV9kZXNpZ24ucHlgIGxhcyB2YWxpZGEgZW4gY2FkYSBjb21taXQuCgojIyAzLiBSZWQgZGUgc3VjdXJzYWxlcwoKYGBgbWVybWFpZApmbG93Y2hhcnQgTFIKICAgIHN1YmdyYXBoIFNKT1siU0pPIEFlcm9wdWVydG8gKOKJiDgyJSBkZSBsYSBkZW1hbmRhKSJdCiAgICAgICAgQUVSX0FbIkFFUl9BPGJyLz5tYXJjYSBkZSB2b2x1bWVuIl0KICAgICAgICBBRVJfQlsiQUVSX0I8YnIvPm1hcmNhIGludGVybWVkaWEiXQogICAgICAgIEFFUl9DWyJBRVJfQzxici8+bWFyY2EgcHJlbWl1bSJdCiAgICBlbmQKICAgIHN1YmdyYXBoIEJFTFsiQmVsw6luICjiiYgxOCUgZGUgbGEgZGVtYW5kYSkiXQogICAgICAgIEJFTF9BWyJCRUxfQTxici8+bWFyY2EgZGUgdm9sdW1lbiJdCiAgICAgICAgQkVMX0JbIkJFTF9CPGJyLz5tYXJjYSBpbnRlcm1lZGlhIl0KICAgICAgICBCRUxfQ1siQkVMX0M8YnIvPm1hcmNhIHByZW1pdW0iXQogICAgZW5kCiAgICBTSk8gPC0tICJvbmUtd2F5IiAtLT4gQkVMCiAgICBTSk8gLS0gIm9uZS13YXkiIC0tPiBERVNUWyJEZXN0aW5vcyB0dXLDrXN0aWNvczxici8+KExpYmVyaWEsIEphY8OzLCBQdG8uIEppbcOpbmV64oCmKSJdCmBgYAoKfCBPZmljaW5hIHwgU2VkZSB8IE1hcmNhIHwgUGVzbyBkZSBsYSBkZW1hbmRhIHwgRHVyYWNpw7NuIG1lZGlhbmEgfCBUYXJpZmEgZGlhcmlhIG1lZGlhbmEgfAp8LS0tfC0tLXwtLS18LS0tfC0tLXwtLS18CnwgQUVSX0EgfCBTSk8gfCBWb2x1bWVuIHwgNDYsNSAlIHwgNywwIGTDrWFzIHwgMzMgfAp8IEFFUl9CIHwgU0pPIHwgSW50ZXJtZWRpYSB8IDIyLDcgJSB8IDcsMSBkw61hcyB8IDQ2IHwKfCBBRVJfQyB8IFNKTyB8IFByZW1pdW0gfCAxMiw3ICUgfCA2LDggZMOtYXMgfCA1OCB8CnwgQkVMX0EgfCBCZWzDqW4gfCBWb2x1bWVuIHwgMTQsMyAlIHwgNyw2IGTDrWFzIHwgMzQgfAp8IEJFTF9CIHwgQmVsw6luIHwgSW50ZXJtZWRpYSB8IDAsNiAlIHwgMjksNyBkw61hcyB8IDM1IHwKfCBCRUxfQyB8IEJlbMOpbiB8IFByZW1pdW0gfCAzLDIgJSB8IDQsNSBkw61hcyB8IDUzIHwKCioqTGVjdHVyYSBkZSBuZWdvY2lvKioKCi0gTGEgbWFyY2EgZGUgdm9sdW1lbiBkb21pbmEgZW4gcHJlY2lvIGJham87IGxhIHByZW1pdW0gY29icmEgY2VyY2EgZGUgMSw4IHZlY2VzIG3DoXMgcG9yIGTDrWE7IGxhIGludGVybWVkaWEgcXVlZGEgZW4gbWVkaW8uCi0gQmVsw6luIGNvbmNlbnRyYSBsb3MgKm9uZS13YXkqOiAxNiAlIGVuIEJFTF9BIHkgMjQgJSBlbiBCRUxfQywgY29udHJhIDTigJMxMCAlIGVuIGVsIGFlcm9wdWVydG8uIEVzYSBhc2ltZXRyw61hIGFsaW1lbnRhIGxhIGRlY2lzacOzbiBkZSAqKnJlZGlzdHJpYnVjacOzbiBkZSBmbG90YSoqLgotIEJFTF9CIHRpZW5lIHVuYSBtdWVzdHJhIG11eSBwZXF1ZcOxYSAoNSByZXNlcnZhcywgY2FzaSB0b2RhcyBkZSBsYXJnbyBwbGF6bykuIFNlIG1vZGVsYSBjb21vIHNlZ21lbnRvIGRlICoqYWxxdWlsZXIgbGFyZ28qKiwgbm8gY29tbyB1biBmbHVqbyBkZSBtb3N0cmFkb3IuCgojIyA0LiBDYXRlZ29yw61hcyBkZSBhdXRvCgpMYXMgNDYgY2xhc2VzIEFDUklTUyBkZWwgbWFuaWZpZXN0byBzZSBhZ3J1cGFuIGVuIDggY2F0ZWdvcsOtYXMuIExhIHJlZ2xhIGRlIGFncnVwYWNpw7NuIGVzdMOhIGVuIGBjYXRlZ29yaWEoKWAgZGVudHJvIGRlIGBzY3JpcHRzL2NhbGlicmF0ZV9mcm9tX21hbmlmZXN0LnB5YC4KCnwgQ2F0ZWdvcsOtYSB8IFBlc28gfCBUYXJpZmEgcDEwIC8gbWVkaWFuYSAvIHA5MCB8IE9ic2VydmFjacOzbiB8CnwtLS18LS0tfC0tLXwtLS18CnwgU1VWX0VTVEFOREFSIHwgMjMsOCAlIHwgMjAgLyAyOSAvIDY5IHwgTGEgY2F0ZWdvcsOtYSBtw6FzIGRlbWFuZGFkYSB8CnwgU1VWX1BSRU1JVU0gfCAxNiwxICUgfCAyOSAvIDcxIC8gMTEzIHwgTWF5b3IgZGlzcGVyc2nDs24gZGUgcHJlY2lvIHwKfCA0WDRfSkVFUCB8IDE1LDAgJSB8IDI3IC8gMzMgLyA2NSB8IFRvZG8gdGVycmVubywgcmVsZXZhbnRlIHBhcmEgZGVzdGlub3MgZGUgcGxheWEgeSBtb250YcOxYSB8CnwgU1VWX0lOVEVSTUVESU8gfCAxMyw0ICUgfCAxNSAvIDM0IC8gNjUgfCB8CnwgU1VWX0NPTVBBQ1RPIHwgMTAsNCAlIHwgMjQgLyAzMiAvIDU3IHwgfAp8IFNVVl9HUkFOREUgfCA5LDggJSB8IDM0IC8gNTIgLyA4OSB8IEluY2x1eWUgcGlja3VwcyAobXV5IHBvY2FzKSB8CnwgQVVUTyB8IDcsOCAlIHwgMjIgLyA0NSAvIDU4IHwgU2Vkw6FuIHkgaGF0Y2hiYWNrOyBsYSBkdXJhY2nDs24gbcOhcyBjb3J0YSAoNSBkw61hcykgfAp8IFZBTiB8IDMsNyAlIHwgNzUgLyAxMjUgLyAxNjEgfCBCYWphIGZyZWN1ZW5jaWEsIHRpY2tldCBhbHRvIHwKCkxvcyBTVVYgeSA0eDQgc3VtYW4gY2VyY2EgZGVsIDg4ICUgZGUgbGEgZGVtYW5kYTogKiplbCBtaXggZGUgZmxvdGEgZXN0w6EgbXV5IHNlc2dhZG8gYSBTVVYqKiwgeSBlbCBtb2RlbG8gZGViZSByZWZsZWphcmxvLgoKIyMgNS4gQ2FuYWxlcyBkZSByZXNlcnZhCgp8IENhbmFsIHwgUGVzbyB8IEFudGljaXBhY2nDs24gbWVkaWFuYSB8IFRhcmlmYSBkaWFyaWEgbWVkaWFuYSB8ICUgY29uIHZ1ZWxvIHwKfC0tLXwtLS18LS0tfC0tLXwtLS18CnwgTUFSQ0FfRElSRUNUTyB8IDU3LDIgJSB8IDI3IGTDrWFzIHwgNDAgfCAzNCAlIHwKfCBBR0VOQ0lBIHwgNDEsNSAlIHwgMjYgZMOtYXMgfCAzNyB8IDI5ICUgfAp8IEFHRU5URV9NT1NUUkFET1IgfCAxLDIgJSB8IDI2IGTDrWFzIHwgNTEgfCAwICUgfAoKLSAqKk1BUkNBX0RJUkVDVE86KiogbGEgcmVzZXJ2YSBsYSBoYWNlIGxhIHByb3BpYSBtYXJjYSAod2ViIG8gY2VudHJhbCkuCi0gKipBR0VOQ0lBOioqIHJlc2VydmEgY29uIGFnZW5jaWEgbyBpbnRlcm1lZGlhcmlvIGRlIHJlZmVyZW5jaWE7IHRpZW5lIHVuYSB0YXJpZmEgbWVkaWFuYSBhbGdvIG1lbm9yLgotICoqQUdFTlRFX01PU1RSQURPUjoqKiByZXNlcnZhIGFzaXN0aWRhIHBvciB1biBhZ2VudGUgc2luIGFnZW5jaWEuIEVzIG1hcmdpbmFsIGVuIGVzdGEgbXVlc3RyYS4KLSBFbCAqKmxhcmdvIHBsYXpvKiogKOKJpSAyOCBkw61hcywgdGFyaWZhIHBlcnNvbmFsaXphZGEpIGVzIHVuIHNlZ21lbnRvIGFwYXJ0ZTogbWVub3MgZGVsIDIgJSBkZSBsYXMgcmVzZXJ2YXMuCgojIyA2LiBQZXJmaWwgZGUgZGVtYW5kYQoKLSAqKkTDrWEgZGUgbGEgc2VtYW5hIChyZWNvZ2lkYXMpOioqIGVsIHPDoWJhZG8gY29uY2VudHJhIGVsIDI0LDggJTsgbHVuZXMgeSBtYXJ0ZXMgcm9uZGFuIGVsIDEwICUuIFZlciBgZGVtYW5kX3Byb2ZpbGVfZG93LmNzdmAuCi0gKipIb3JhIGRlbCBkw61hOioqIHBpY29zIGVudHJlIGxhcyA4OjAw4oCTMTA6MDAgeSBsYXMgMTI6MDDigJMxNDowMC4gVmVyIGBkZW1hbmRfcHJvZmlsZV9ob3VyLmNzdmAuCi0gKipBbnRpY2lwYWNpw7NuOioqIG1lZGlhbmEgZGUgdW5hcyA0IHNlbWFuYXMsIGNvbiBjb2xhIGxhcmdhIGRlIHJlc2VydmFzIGhlY2hhcyBjb24gaGFzdGEgY2FzaSB1biBhw7FvIGRlIGFudGljaXBhY2nDs24uCi0gKipEdXJhY2nDs246KiogbWVkaWFuYSBkZSA3IGTDrWFzLgoKIyMgNy4gU3VwdWVzdG9zIGRlIGZsb3RhIChhIHZhbGlkYXIgZW4gbGEgTWlzacOzbiAyKQoKTm8gaGF5IHVuYSBmbG90YSByZWFsIHB1YmxpY2FkYS4gRWwgZGlzZcOxbyBwcm9wb25lIGRpbWVuc2lvbmFybGEgYXPDrToKCmBgYApmbG90YV9jYXRlZ29yaWEg4omIIChkZW1hbmRhX3NlbWFuYWwgw5cgZHVyYWNpw7NuX21lZGlhKSAvICg3IMOXIHV0aWxpemFjacOzbl9vYmpldGl2bykKYGBgCgpjb24gdXRpbGl6YWNpw7NuIG9iamV0aXZvIGRlIDc14oCTODUgJSBjb21vIHB1bnRvIGRlIHBhcnRpZGEuIExhIGVzY2FsYSBhYnNvbHV0YSAobsO6bWVybyBkZSBhdXRvcyB5IGRlIHJlc2VydmFzIHBvciBzZW1hbmEpIGVzIHVuICoqcGFyw6FtZXRybyBkZSBzaW11bGFjacOzbioqLCBubyB1biBkYXRvIGRlbCByZXBvLgoKIyMgOC4gRGVjaXNpb25lcyBxdWUgZWwgc2lzdGVtYSBkZWJlIGFwb3lhcgoKMS4gKipQcmVjaW8gZGluw6FtaWNvOioqIGFqdXN0YXIgbGEgdGFyaWZhIHBvciBjYXRlZ29yw61hLCBzZWRlIHkgYW50aWNpcGFjacOzbiBzZWfDum4gZGVtYW5kYSB5IGRpc3BvbmliaWxpZGFkLgoyLiAqKlJlZGlzdHJpYnVjacOzbiBkZSBmbG90YToqKiBjdcOhbnRvcyBhdXRvcyBtb3ZlciBlbnRyZSBTSk8geSBCZWzDqW4gcGFyYSBhYnNvcmJlciBsb3MgKm9uZS13YXkqIHkgZWwgcGljbyBkZWwgc8OhYmFkby4KMy4gKipTb2JyZXZlbnRhIHkgbm8tc2hvdzoqKiBjdcOhbnRhcyByZXNlcnZhcyBhY2VwdGFyIHBvciBlbmNpbWEgZGUgbGEgY2FwYWNpZGFkIHBvciBjYXRlZ29yw61hLgo0LiAqKlVwZ3JhZGVzIHkgc3VzdGl0dWNpb25lczoqKiBxdcOpIGhhY2VyIGN1YW5kbyBmYWx0YSB1bmEgY2F0ZWdvcsOtYSAocG9yIGVqZW1wbG8sIHVuIFNVViBlc3TDoW5kYXIgcG9yIHVubyBpbnRlcm1lZGlvKS4KCiMjIDkuIExpbWl0YWNpb25lcwoKLSBMYSBtdWVzdHJhIGN1YnJlICoqdW5hIHNvbGEgc2VtYW5hKiogZGUgcmVjb2dpZGFzIGNvbmZpcm1hZGFzLiBObyBzZSBvYnNlcnZhbiBjYW5jZWxhY2lvbmVzLCBuby1zaG93cyBuaSBlc3RhY2lvbmFsaWRhZCBhbnVhbC4KLSBMb3MgcGVzb3MgcG9yIG9maWNpbmEgZGUgYmFqYSBmcmVjdWVuY2lhIChCRUxfQikgdGllbmVuIG11Y2hvIHJ1aWRvLgotIExhcyB0YXJpZmFzIHNlIGludGVycHJldGFuIGNvbW8gVVNEIHBvciBkw61hOyBmYWx0YSBjb25maXJtYXIgbW9uZWRhIGUgaW1wdWVzdG9zLgotIExhIGNhbGlicmFjacOzbiBjb24gZGF0b3MgcMO6YmxpY29zIGRlIHR1cmlzbW8gKGxsZWdhZGFzIHBvciBhZXJvcHVlcnRvIHkgdGVtcG9yYWRhKSBxdWVkYSBwYXJhIGxhIE1pc2nDs24gMi4KCiMjIDEwLiBEYXRvcywgw6l0aWNhIHkgY29uZmlkZW5jaWFsaWRhZAoKLSBMYXMgdGFibGFzIHNvbiBhZ3JlZ2Fkb3MgcmVkb25kZWFkb3M7IG5vIHBlcm1pdGVuIHJlY29uc3RydWlyIG5pbmd1bmEgcmVzZXJ2YS4KLSBMb3MgaWRlbnRpZmljYWRvcmVzIGRlIG9maWNpbmEgeSBkZSBtYXJjYSBzb24gKipnZW7DqXJpY29zKiogKGBBRVJfQWAsIGBNQVJDQV9WT0xVTUVOYCkuIEVsIG1hcGEgaGFjaWEgbG9zIGPDs2RpZ29zIHJlYWxlcyB2aXZlIGVuIGBkYXRhL3Jhdy9gLCBxdWUgZXN0w6EgZW4gYC5naXRpZ25vcmVgLgotIEVsIG1hbmlmaWVzdG8gb3JpZ2luYWwgKipubyBzZSB2ZXJzaW9uYSoqLiBTaSBzZSBjYWxpYnJhIGNvbiBkYXRvcyBkZSB1biBlbXBsZWFkb3IsIGNvbnZpZW5lIGNvbmZpcm1hciBxdWUgbGEgcHVibGljYWNpw7NuIGRlIHByb3BvcmNpb25lcyBhZ3JlZ2FkYXMgZXN0w6kgcGVybWl0aWRhLgoKIyMgMTEuIENyaXRlcmlvcyBkZSBhY2VwdGFjacOzbiBkZSBsYSBNaXNpw7NuIDEKCi0gW3hdIFN1Y3Vyc2FsZXMgZGVmaW5pZGFzLCBjb24gc2VkZSwgbWFyY2EgeSBwZXNvIGRlIGRlbWFuZGEgKGBvZmZpY2VzLmNzdmAsIGBzaXRlcy5jc3ZgKQotIFt4XSBDYXRlZ29yw61hcyBkZSBhdXRvIGRlZmluaWRhcywgY29uIHRhcmlmYXMgeSBwZXNvcyAoYGNhdGVnb3JpZXMuY3N2YCkKLSBbeF0gQ2FuYWxlcyBkZSByZXNlcnZhIGRlZmluaWRvcywgY29uIHBlc29zIHkgYXRyaWJ1dG9zIChgY2hhbm5lbHMuY3N2YCkKLSBbeF0gUGVyZmlsIGRlIGRlbWFuZGEgZGUgcmVmZXJlbmNpYSAoYGRlbWFuZF9wcm9maWxlXyouY3N2YCkKLSBbeF0gVmFsaWRhY2nDs24gYXV0b23DoXRpY2EgZGUgbGFzIHRhYmxhcyBlbiBDSQotIFt4XSBEb2N1bWVudG8gZGUgZGlzZcOxbyB2ZXJzaW9uYWRvIGVuIGVsIHJlcG8K
+# Misión 1 — Diseño de la operación
+
+> **Estado:** v1.0 · **Entregable:** documento de diseño de sucursales, categorías de auto y canales de reserva · **Datos:** `data/design/`
+
+## 1. Resumen
+
+El SJO Decision Lab simula una rentadora de autos con operación en el Aeropuerto Internacional Juan Santamaría (SJO) y en Belén. Toda la operación es **100% sintética**. Sus parámetros se calibran con estadísticas agregadas de un manifiesto semanal de reservas y con datos públicos de turismo de Costa Rica, sin copiar ningún registro real.
+
+| Elemento | Diseño |
+|---|---|
+| Sedes | 2: SJO aeropuerto y Belén |
+| Marcas | 3: de volumen, intermedia y premium |
+| Oficinas | 6 (2 sedes × 3 marcas) |
+| Categorías de auto | 8 (agrupan 46 clases ACRISS) |
+| Canales de reserva | 3 (marca directo, agencia, agente/mostrador) |
+
+## 2. Principios de diseño
+
+1. **Sintético por construcción.** El repositorio no contiene nombres, números de reserva ni datos de contacto. Solo proporciones y medianas redondeadas.
+2. **Calibrado, no copiado.** Cada parámetro tiene una fuente (manifiesto agregado o dato público) y está en un CSV versionado.
+3. **Escalable.** Agregar una sede o una marca es agregar una fila, no reescribir el modelo.
+4. **Reproducible.** `scripts/calibrate_from_manifest.py` regenera las tablas; `scripts/validate_design.py` las valida en cada commit.
+
+## 3. Red de sucursales
+
+```mermaid
+flowchart LR
+    subgraph SJO["SJO Aeropuerto (≈82% de la demanda)"]
+        AER_A["AER_A<br/>marca de volumen"]
+        AER_B["AER_B<br/>marca intermedia"]
+        AER_C["AER_C<br/>marca premium"]
+    end
+    subgraph BEL["Belén (≈18% de la demanda)"]
+        BEL_A["BEL_A<br/>marca de volumen"]
+        BEL_B["BEL_B<br/>marca intermedia"]
+        BEL_C["BEL_C<br/>marca premium"]
+    end
+    SJO <-- "one-way" --> BEL
+    SJO -- "one-way" --> DEST["Destinos turísticos<br/>(Liberia, Jacó, Pto. Jiménez…)"]
+```
+
+| Oficina | Sede | Marca | Peso de la demanda | Duración mediana | Tarifa diaria mediana |
+|---|---|---|---|---|---|
+| AER_A | SJO | Volumen | 46,5 % | 7,0 días | 33 |
+| AER_B | SJO | Intermedia | 22,7 % | 7,1 días | 46 |
+| AER_C | SJO | Premium | 12,7 % | 6,8 días | 58 |
+| BEL_A | Belén | Volumen | 14,3 % | 7,6 días | 34 |
+| BEL_B | Belén | Intermedia | 0,6 % | 29,7 días | 35 |
+| BEL_C | Belén | Premium | 3,2 % | 4,5 días | 53 |
+
+**Lectura de negocio**
+
+- La marca de volumen domina en precio bajo; la premium cobra cerca de 1,8 veces más por día; la intermedia queda en medio.
+- Belén concentra los *one-way*: 16 % en BEL_A y 24 % en BEL_C, contra 4–10 % en el aeropuerto. Esa asimetría alimenta la decisión de **redistribución de flota**.
+- BEL_B tiene una muestra muy pequeña (5 reservas, casi todas de largo plazo). Se modela como segmento de **alquiler largo**, no como un flujo de mostrador.
+
+## 4. Categorías de auto
+
+Las 46 clases ACRISS del manifiesto se agrupan en 8 categorías. La regla de agrupación está en `categoria()` dentro de `scripts/calibrate_from_manifest.py`.
+
+| Categoría | Peso | Tarifa p10 / mediana / p90 | Observación |
+|---|---|---|---|
+| SUV_ESTANDAR | 23,8 % | 20 / 29 / 69 | La categoría más demandada |
+| SUV_PREMIUM | 16,1 % | 29 / 71 / 113 | Mayor dispersión de precio |
+| 4X4_JEEP | 15,0 % | 27 / 33 / 65 | Todo terreno, relevante para destinos de playa y montaña |
+| SUV_INTERMEDIO | 13,4 % | 15 / 34 / 65 | |
+| SUV_COMPACTO | 10,4 % | 24 / 32 / 57 | |
+| SUV_GRANDE | 9,8 % | 34 / 52 / 89 | Incluye pickups (muy pocas) |
+| AUTO | 7,8 % | 22 / 45 / 58 | Sedán y hatchback; la duración más corta (5 días) |
+| VAN | 3,7 % | 75 / 125 / 161 | Baja frecuencia, ticket alto |
+
+Los SUV y 4x4 suman cerca del 88 % de la demanda: **el mix de flota está muy sesgado a SUV**, y el modelo debe reflejarlo.
+
+## 5. Canales de reserva
+
+| Canal | Peso | Anticipación mediana | Tarifa diaria mediana | % con vuelo |
+|---|---|---|---|---|
+| MARCA_DIRECTO | 57,2 % | 27 días | 40 | 34 % |
+| AGENCIA | 41,5 % | 26 días | 37 | 29 % |
+| AGENTE_MOSTRADOR | 1,2 % | 26 días | 51 | 0 % |
+
+- **MARCA_DIRECTO:** la reserva la hace la propia marca (web o central).
+- **AGENCIA:** reserva con agencia o intermediario de referencia; tiene una tarifa mediana algo menor.
+- **AGENTE_MOSTRADOR:** reserva asistida por un agente sin agencia. Es marginal en esta muestra.
+- El **largo plazo** (≥ 28 días, tarifa personalizada) es un segmento aparte: menos del 2 % de las reservas.
+
+## 6. Perfil de demanda
+
+- **Día de la semana (recogidas):** el sábado concentra el 24,8 %; lunes y martes rondan el 10 %. Ver `demand_profile_dow.csv`.
+- **Hora del día:** picos entre las 8:00–10:00 y las 12:00–14:00. Ver `demand_profile_hour.csv`.
+- **Anticipación:** mediana de unas 4 semanas, con cola larga de reservas hechas con hasta casi un año de anticipación.
+- **Duración:** mediana de 7 días.
+
+## 7. Supuestos de flota (a validar en la Misión 2)
+
+No hay una flota real publicada. El diseño propone dimensionarla así:
+
+```
+flota_categoria ≈ (demanda_semanal × duración_media) / (7 × utilización_objetivo)
+```
+
+con utilización objetivo de 75–85 % como punto de partida. La escala absoluta (número de autos y de reservas por semana) es un **parámetro de simulación**, no un dato del repo.
+
+## 8. Decisiones que el sistema debe apoyar
+
+1. **Precio dinámico:** ajustar la tarifa por categoría, sede y anticipación según demanda y disponibilidad.
+2. **Redistribución de flota:** cuántos autos mover entre SJO y Belén para absorber los *one-way* y el pico del sábado.
+3. **Sobreventa y no-show:** cuántas reservas aceptar por encima de la capacidad por categoría.
+4. **Upgrades y sustituciones:** qué hacer cuando falta una categoría (por ejemplo, un SUV estándar por uno intermedio).
+
+## 9. Limitaciones
+
+- La muestra cubre **una sola semana** de recogidas confirmadas. No se observan cancelaciones, no-shows ni estacionalidad anual.
+- Los pesos por oficina de baja frecuencia (BEL_B) tienen mucho ruido.
+- Las tarifas se interpretan como USD por día; falta confirmar moneda e impuestos.
+- La calibración con datos públicos de turismo (llegadas por aeropuerto y temporada) queda para la Misión 2.
+
+## 10. Datos, ética y confidencialidad
+
+- Las tablas son agregados redondeados; no permiten reconstruir ninguna reserva.
+- Los identificadores de oficina y de marca son **genéricos** (`AER_A`, `MARCA_VOLUMEN`). El mapa hacia los códigos reales vive en `data/raw/`, que está en `.gitignore`.
+- El manifiesto original **no se versiona**. Si se calibra con datos de un empleador, conviene confirmar que la publicación de proporciones agregadas esté permitida.
+
+## 11. Criterios de aceptación de la Misión 1
+
+- [x] Sucursales definidas, con sede, marca y peso de demanda (`offices.csv`, `sites.csv`)
+- [x] Categorías de auto definidas, con tarifas y pesos (`categories.csv`)
+- [x] Canales de reserva definidos, con pesos y atributos (`channels.csv`)
+- [x] Perfil de demanda de referencia (`demand_profile_*.csv`)
+- [x] Validación automática de las tablas en CI
+- [x] Documento de diseño versionado en el repo
