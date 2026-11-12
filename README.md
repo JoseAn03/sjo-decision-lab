@@ -1,1 +1,61 @@
-IyBTSk8gRGVjaXNpb24gTGFiCgpTaXN0ZW1hIGRlIGRlY2lzaW9uZXMgcGFyYSB1bmEgcmVudGFkb3JhIGRlIGF1dG9zIGNvbiBvcGVyYWNpw7NuIGVuIGVsIEFlcm9wdWVydG8gSW50ZXJuYWNpb25hbCBKdWFuIFNhbnRhbWFyw61hIChTSk8pIHkgQmVsw6luLCBDb3N0YSBSaWNhLgoKTGEgb3BlcmFjacOzbiBlcyAqKjEwMCUgc2ludMOpdGljYSoqLCBjYWxpYnJhZGEgY29uIGVzdGFkw61zdGljYXMgYWdyZWdhZGFzIHkgZGF0b3MgcMO6YmxpY29zIGRlIHR1cmlzbW8uIE5vIGNvbnRpZW5lIGRhdG9zIHBlcnNvbmFsZXMgbmkgcmVnaXN0cm9zIHJlYWxlcyBkZSBuaW5ndW5hIGVtcHJlc2EuCgojIyDCv1F1w6kgZGVjaXNpb25lcyBhcG95YT8KCi0gKipQcmVjaW8gZGluw6FtaWNvKiogcG9yIGNhdGVnb3LDrWEsIHNlZGUgeSBhbnRpY2lwYWNpw7NuCi0gKipSZWRpc3RyaWJ1Y2nDs24gZGUgZmxvdGEqKiBlbnRyZSBTSk8geSBCZWzDqW4gKG9uZS13YXkgeSBwaWNvIGRlIGZpbiBkZSBzZW1hbmEpCi0gKipTb2JyZXZlbnRhIHkgbm8tc2hvdyoqIHBvciBjYXRlZ29yw61hCi0gKipVcGdyYWRlcyB5IHN1c3RpdHVjaW9uZXMqKiBjdWFuZG8gZmFsdGEgdW5hIGNhdGVnb3LDrWEKCiMjIExhIG9wZXJhY2nDs24gZW4gdW5hIHRhYmxhCgp8IHwgfAp8LS0tfC0tLXwKfCBTZWRlcyB8IFNKTyBhZXJvcHVlcnRvIHkgQmVsw6luIHwKfCBPZmljaW5hcyB8IDYgKDIgc2VkZXMgw5cgMyBtYXJjYXMpIHwKfCBDYXRlZ29yw61hcyBkZSBhdXRvIHwgOCB8CnwgQ2FuYWxlcyBkZSByZXNlcnZhIHwgMyB8CgpEZXRhbGxlIGNvbXBsZXRvIGVuIFtgZG9jcy8wMS1kaXNlbm8tb3BlcmFjaW9uLm1kYF0oZG9jcy8wMS1kaXNlbm8tb3BlcmFjaW9uLm1kKS4KCiMjIE1pc2lvbmVzCgpFbCBwcm95ZWN0byBhdmFuemEgZW4gMTQgbWlzaW9uZXM7IGNhZGEgdW5hIHNlIGNvbXBsZXRhIHNvbG8gY3VhbmRvIGV4aXN0ZSBzdSBlbnRyZWdhYmxlLiBFc3RhZG8gZW4gW2BtaXNzaW9ucy9SRUFETUUubWRgXShtaXNzaW9ucy9SRUFETUUubWQpLgoKfCAjIHwgTWlzacOzbiB8IEVzdGFkbyB8CnwtLS18LS0tfC0tLXwKfCAxIHwgRGlzZcOxYXIgbGEgb3BlcmFjacOzbiB8IOKchSB8CnwgMuKAkzE0IHwgUG9yIGRlZmluaXIgfCDirJwgfAoKIyMgRXN0cnVjdHVyYQoKYGBgCnNqby1kZWNpc2lvbi1sYWIvCuKUnOKUgOKUgCBkb2NzLyAgICAgICAgICAgICAgICAjIGRvY3VtZW50b3MgZGUgZGlzZcOxbyBwb3IgbWlzacOzbgrilJzilIDilIAgZGF0YS8K4pSCICAg4pSc4pSA4pSAIGRlc2lnbi8gICAgICAgICAgIyB0YWJsYXMgYWdyZWdhZGFzIHkgdmVyc2lvbmFkYXMK4pSCICAg4pSU4pSA4pSAIHJhdy8gICAgICAgICAgICAgIyBzb2xvIGxvY2FsLCBlbiAuZ2l0aWdub3JlCuKUnOKUgOKUgCBzY3JpcHRzLyAgICAgICAgICAgICAjIGNhbGlicmFjacOzbiB5IHZhbGlkYWNpw7NuCuKUnOKUgOKUgCBtaXNzaW9ucy8gICAgICAgICAgICAjIGVzdGFkbyBkZSBsYXMgMTQgbWlzaW9uZXMK4pSU4pSA4pSAIC5naXRodWIvd29ya2Zsb3dzLyAgICMgQ0kKYGBgCgojIyBDw7NtbyByZXByb2R1Y2lyCgpgYGBiYXNoCnBpcCBpbnN0YWxsIC1yIHJlcXVpcmVtZW50cy50eHQKcHl0aG9uIHNjcmlwdHMvdmFsaWRhdGVfZGVzaWduLnB5ICAgICAgICAgICAgICAgICAgICAgICAjIHZhbGlkYSBsYXMgdGFibGFzCnB5dGhvbiBzY3JpcHRzL2NhbGlicmF0ZV9mcm9tX21hbmlmZXN0LnB5IGRhdGEvcmF3L21hbmlmZXN0Lnhsc3ggICAjIHJlY2FsaWJyYSAoZGF0b3MgbG9jYWxlcykKYGBgCgojIyBQcml2YWNpZGFkCgpMb3MgbWFuaWZpZXN0b3MgcmVhbGVzIG51bmNhIHNlIHZlcnNpb25hbiAoYGRhdGEvcmF3L2AgZXN0w6EgZW4gYC5naXRpZ25vcmVgKS4gTG9zIGlkZW50aWZpY2Fkb3JlcyBkZSBvZmljaW5hIHkgZGUgbWFyY2Egc29uIGdlbsOpcmljb3MgeSBsYXMgdGFibGFzIHNvbiBhZ3JlZ2Fkb3MgcmVkb25kZWFkb3MgcXVlIG5vIHBlcm1pdGVuIHJlY29uc3RydWlyIHVuYSByZXNlcnZhLgoKIyMgTGljZW5jaWEKCltNSVRdKExJQ0VOU0UpCg==
+# SJO Decision Lab
+
+Sistema de decisiones para una rentadora de autos con operación en el Aeropuerto Internacional Juan Santamaría (SJO) y Belén, Costa Rica.
+
+La operación es **100% sintética**, calibrada con estadísticas agregadas y datos públicos de turismo. No contiene datos personales ni registros reales de ninguna empresa.
+
+## ¿Qué decisiones apoya?
+
+- **Precio dinámico** por categoría, sede y anticipación
+- **Redistribución de flota** entre SJO y Belén (one-way y pico de fin de semana)
+- **Sobreventa y no-show** por categoría
+- **Upgrades y sustituciones** cuando falta una categoría
+
+## La operación en una tabla
+
+| | |
+|---|---|
+| Sedes | SJO aeropuerto y Belén |
+| Oficinas | 6 (2 sedes × 3 marcas) |
+| Categorías de auto | 8 |
+| Canales de reserva | 3 |
+
+Detalle completo en [`docs/01-diseno-operacion.md`](docs/01-diseno-operacion.md).
+
+## Misiones
+
+El proyecto avanza en 14 misiones; cada una se completa solo cuando existe su entregable. Estado en [`missions/README.md`](missions/README.md).
+
+| # | Misión | Estado |
+|---|---|---|
+| 1 | Diseñar la operación | ✅ |
+| 2–14 | Por definir | ⬜ |
+
+## Estructura
+
+```
+sjo-decision-lab/
+├── docs/                # documentos de diseño por misión
+├── data/
+│   ├── design/          # tablas agregadas y versionadas
+│   └── raw/             # solo local, en .gitignore
+├── scripts/             # calibración y validación
+├── missions/            # estado de las 14 misiones
+└── .github/workflows/   # CI
+```
+
+## Cómo reproducir
+
+```bash
+pip install -r requirements.txt
+python scripts/validate_design.py                       # valida las tablas
+python scripts/calibrate_from_manifest.py data/raw/manifest.xlsx   # recalibra (datos locales)
+```
+
+## Privacidad
+
+Los manifiestos reales nunca se versionan (`data/raw/` está en `.gitignore`). Los identificadores de oficina y de marca son genéricos y las tablas son agregados redondeados que no permiten reconstruir una reserva.
+
+## Licencia
+
+[MIT](LICENSE)
