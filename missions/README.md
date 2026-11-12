@@ -1,1 +1,20 @@
-IyBNaXNpb25lcwoKQ2FkYSBtaXNpw7NuIHNlIGNvbXBsZXRhIHNvbG8gY3VhbmRvIHN1ICoqZW50cmVnYWJsZSByZWFsKiogZXhpc3RlIGVuIGVsIHJlcG8uIE5vIGhheSBmZWNoYSBsw61taXRlLgoKfCAjIHwgTWlzacOzbiB8IEVudHJlZ2FibGUgfCBFc3RhZG8gfAp8LS0tfC0tLXwtLS18LS0tfAp8IDEgfCBEaXNlw7FhciBsYSBvcGVyYWNpw7NuIHwgW2Bkb2NzLzAxLWRpc2Vuby1vcGVyYWNpb24ubWRgXSguLi9kb2NzLzAxLWRpc2Vuby1vcGVyYWNpb24ubWQpICsgYGRhdGEvZGVzaWduL2AgfCDinIUgQ29tcGxldGFkYSB8CnwgMiB8IF9Qb3IgZGVmaW5pcl8gfCB8IOKsnCBQZW5kaWVudGUgfAp8IDMgfCBfUG9yIGRlZmluaXJfIHwgfCDirJwgUGVuZGllbnRlIHwKfCA0IHwgX1BvciBkZWZpbmlyXyB8IHwg4qycIFBlbmRpZW50ZSB8CnwgNSB8IF9Qb3IgZGVmaW5pcl8gfCB8IOKsnCBQZW5kaWVudGUgfAp8IDYgfCBfUG9yIGRlZmluaXJfIHwgfCDirJwgUGVuZGllbnRlIHwKfCA3IHwgX1BvciBkZWZpbmlyXyB8IHwg4qycIFBlbmRpZW50ZSB8CnwgOCB8IF9Qb3IgZGVmaW5pcl8gfCB8IOKsnCBQZW5kaWVudGUgfAp8IDkgfCBfUG9yIGRlZmluaXJfIHwgfCDirJwgUGVuZGllbnRlIHwKfCAxMCB8IF9Qb3IgZGVmaW5pcl8gfCB8IOKsnCBQZW5kaWVudGUgfAp8IDExIHwgX1BvciBkZWZpbmlyXyB8IHwg4qycIFBlbmRpZW50ZSB8CnwgMTIgfCBfUG9yIGRlZmluaXJfIHwgfCDirJwgUGVuZGllbnRlIHwKfCAxMyB8IF9Qb3IgZGVmaW5pcl8gfCB8IOKsnCBQZW5kaWVudGUgfAp8IDE0IHwgX1BvciBkZWZpbmlyXyB8IHwg4qycIFBlbmRpZW50ZSB8Cg==
+# Misiones
+
+Cada misión se completa solo cuando su **entregable real** existe en el repo. No hay fecha límite.
+
+| # | Misión | Entregable | Estado |
+|---|---|---|---|
+| 1 | Diseñar la operación | [`docs/01-diseno-operacion.md`](../docs/01-diseno-operacion.md) + `data/design/` | ✅ Completada |
+| 2 | _Por definir_ | | ⬜ Pendiente |
+| 3 | _Por definir_ | | ⬜ Pendiente |
+| 4 | _Por definir_ | | ⬜ Pendiente |
+| 5 | _Por definir_ | | ⬜ Pendiente |
+| 6 | _Por definir_ | | ⬜ Pendiente |
+| 7 | _Por definir_ | | ⬜ Pendiente |
+| 8 | _Por definir_ | | ⬜ Pendiente |
+| 9 | _Por definir_ | | ⬜ Pendiente |
+| 10 | _Por definir_ | | ⬜ Pendiente |
+| 11 | _Por definir_ | | ⬜ Pendiente |
+| 12 | _Por definir_ | | ⬜ Pendiente |
+| 13 | _Por definir_ | | ⬜ Pendiente |
+| 14 | _Por definir_ | | ⬜ Pendiente |
