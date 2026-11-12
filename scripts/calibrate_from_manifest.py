@@ -1,1 +1,126 @@
-IiIiQ2FsaWJyYSBlbCBkaXNlw7FvIGRlIGxhIG9wZXJhY2nDs24gYSBwYXJ0aXIgZGUgdW4gbWFuaWZpZXN0byBzZW1hbmFsIGRlIHJlc2VydmFzLgoKVVNPIChsb2NhbDsgbG9zIGFyY2hpdm9zIHJlYWxlcyBOVU5DQSBzZSBzdWJlbiBhbCByZXBvc2l0b3Jpbyk6CiAgICBweXRob24gc2NyaXB0cy9jYWxpYnJhdGVfZnJvbV9tYW5pZmVzdC5weSBkYXRhL3Jhdy9tYW5pZmVzdC54bHN4IFtkYXRhL3Jhdy9vZmZpY2VfbWFwLmpzb25dCgpFbCBtYXBhIGRlIG9maWNpbmFzIChjw7NkaWdvIHJlYWwgLT4gc2VkZSB5IG1hcmNhIGdlbsOpcmljYSkgdml2ZSBlbiBkYXRhL3Jhdy8sCnF1ZSBlc3TDoSBlbiAuZ2l0aWdub3JlLiBWZXIgZGF0YS9kZXNpZ24vb2ZmaWNlX21hcC5leGFtcGxlLmpzb24uCgpTYWxpZGE6IHRhYmxhcyBBR1JFR0FEQVMgZW4gZGF0YS9kZXNpZ24vIChwb3JjZW50YWplcyB5IG1lZGlhbmFzIHJlZG9uZGVhZGFzKS4KTm8gc2UgZXNjcmliZSBuaW5nw7puIG5vbWJyZSwgbsO6bWVybyBkZSByZXNlcnZhIG5pIGRhdG8gcGVyc29uYWwuCiIiIgppbXBvcnQganNvbgppbXBvcnQgc3lzCmZyb20gcGF0aGxpYiBpbXBvcnQgUGF0aAoKaW1wb3J0IHBhbmRhcyBhcyBwZAoKT1VUID0gUGF0aChfX2ZpbGVfXykucmVzb2x2ZSgpLnBhcmVudC5wYXJlbnQgLyAiZGF0YSIgLyAiZGVzaWduIgoKUk9PVCA9IFBhdGgoX19maWxlX18pLnJlc29sdmUoKS5wYXJlbnQucGFyZW50CkRFRkFVTFRfTUFQID0gUk9PVCAvICJkYXRhIiAvICJyYXciIC8gIm9mZmljZV9tYXAuanNvbiIKQlJBTkRTID0geyJBbGFtbyIsICJFbnRlcnByaXNlIiwgIk5hdGlvbmFsIn0gICMgdmFsb3JlcyBkZWwgY2FtcG8gIlJlc2VydmFkbyBwb3IiIHF1ZSBzb24gbGEgbWFyY2EgKGNhbmFsIGRpcmVjdG8pCgoKZGVmIGNhdGVnb3JpYShjbGFzZTogc3RyKSAtPiBzdHI6CiAgICAiIiJBZ3J1cGEgZWwgY8OzZGlnbyBBQ1JJU1MgKDQ2IGNsYXNlcykgZW4gOCBjYXRlZ29yw61hcyBzaW50w6l0aWNhcy4iIiIKICAgIHNpemUsIHRpcG8gPSBjbGFzZVswXSwgY2xhc2VbMV0KICAgIGlmIHRpcG8gaW4gIlZLIjoKICAgICAgICByZXR1cm4gIlZBTiIKICAgIGlmIHRpcG8gPT0gIkoiOgogICAgICAgIHJldHVybiAiNFg0X0pFRVAiCiAgICBpZiB0aXBvIGluICJQUSI6CiAgICAgICAgcmV0dXJuICJTVVZfR1JBTkRFIiAgIyBwaWNrdXBzOiBtdXkgcG9jYXMsIHNlIGZ1bmRlbiBjb24gbGEgY2F0ZWdvcsOtYSBncmFuZGUKICAgIGlmIHRpcG8gaW4gIkZHUiI6CiAgICAgICAgcmV0dXJuIHsiRSI6ICJTVVZfQ09NUEFDVE8iLCAiQyI6ICJTVVZfQ09NUEFDVE8iLCAiTSI6ICJTVVZfQ09NUEFDVE8iLAogICAgICAgICAgICAgICAgIkkiOiAiU1VWX0lOVEVSTUVESU8iLCAiUyI6ICJTVVZfRVNUQU5EQVIiLAogICAgICAgICAgICAgICAgIkYiOiAiU1VWX0dSQU5ERSJ9LmdldChzaXplLCAiU1VWX1BSRU1JVU0iKQogICAgcmV0dXJuICJBVVRPIgoKCmRlZiBjYW5hbChyb3cpIC0+IHN0cjoKICAgIGlmIHBkLm5vdG5hKHJvd1siQWdlbmNpYSBkZSByZWNvbS4iXSk6CiAgICAgICAgcmV0dXJuICJBR0VOQ0lBIgogICAgaWYgcm93WyJSZXNlcnZhZG8gcG9yIl0gaW4gQlJBTkRTOgogICAgICAgIHJldHVybiAiTUFSQ0FfRElSRUNUTyIKICAgIHJldHVybiAiQUdFTlRFX01PU1RSQURPUiIKCgpkZWYgbWFpbihwYXRoOiBzdHIsIG1hcF9wYXRoOiBQYXRoID0gREVGQVVMVF9NQVApIC0+IE5vbmU6CiAgICAjIHsiY29kaWdvX3JlYWwiOiBbIlNFREUiLCAiT0ZJQ0lOQV9JRCIsICJNQVJDQV9JRCJdfQogICAgb2ZmaWNlcyA9IGpzb24ubG9hZHMoUGF0aChtYXBfcGF0aCkucmVhZF90ZXh0KGVuY29kaW5nPSJ1dGYtOCIpKQogICAgZGYgPSBwZC5yZWFkX2V4Y2VsKHBhdGgpCiAgICBkZi5jb2x1bW5zID0gW3N0cihjKS5zdHJpcCgpIGZvciBjIGluIGRmLmNvbHVtbnNdCiAgICBkZiA9IGRmW35kZlsiTm9tYnJlIl0uYXN0eXBlKHN0cikuc3RyLmNvbnRhaW5zKCJURVNUIiwgbmE9RmFsc2UpXS5jb3B5KCkgICMgcmVnaXN0cm9zIGRlIHBydWViYQoKICAgIGYgPSAiJWQvJW0vJVkgJUg6JU0iCiAgICBkZlsicmVjIl0gPSBwZC50b19kYXRldGltZShkZlsiRmVjaGEgcmVjb2dpZGEiXSwgZm9ybWF0PWYpCiAgICBkZlsiZW50Il0gPSBwZC50b19kYXRldGltZShkZlsiRmVjaGEgZW50cmVnYSJdLCBmb3JtYXQ9ZikKICAgIGRmWyJyZXMiXSA9IHBkLnRvX2RhdGV0aW1lKGRmWyJGZWNoYSBkZSByZXNlcnZhIl0sIGZvcm1hdD1mKQogICAgZGZbImRpYXMiXSA9IChkZlsiZW50Il0gLSBkZlsicmVjIl0pLmR0LnRvdGFsX3NlY29uZHMoKSAvIDg2NDAwCiAgICBkZlsibGVhZCJdID0gKGRmWyJyZWMiXSAtIGRmWyJyZXMiXSkuZHQudG90YWxfc2Vjb25kcygpIC8gODY0MDAKICAgIGRmWyJ0YXJpZmEiXSA9IHBkLnRvX251bWVyaWMoZGZbIlRhcmlmYSBkaWFyaWEiXSwgZXJyb3JzPSJjb2VyY2UiKQogICAgZGZbImNhdCJdID0gZGZbIkNsYXNlIl0ubWFwKGNhdGVnb3JpYSkKICAgIGRmWyJjYW5hbCJdID0gZGYuYXBwbHkoY2FuYWwsIGF4aXM9MSkKICAgIGRmWyJvbmVfd2F5Il0gPSBkZlsiVWJpYy4gcmVjLiJdICE9IGRmWyJVYmljLiBlbnQuIl0KICAgIG4gPSBsZW4oZGYpCgogICAgIyAxKSBPZmljaW5hcwogICAgcm93cyA9IFtdCiAgICBmb3IgY29kZSwgKHNlZGUsIG9maWNpbmFfaWQsIG1hcmNhKSBpbiBvZmZpY2VzLml0ZW1zKCk6CiAgICAgICAgZyA9IGRmW2RmWyJVYmljLiByZWMuIl0gPT0gY29kZV0KICAgICAgICByb3dzLmFwcGVuZCh7CiAgICAgICAgICAgICJvZmljaW5hX2lkIjogb2ZpY2luYV9pZCwgInNlZGUiOiBzZWRlLCAibWFyY2EiOiBtYXJjYSwKICAgICAgICAgICAgInBlc29fZGVtYW5kYV9wY3QiOiByb3VuZCgxMDAgKiBsZW4oZykgLyBuLCAxKSwKICAgICAgICAgICAgImR1cmFjaW9uX21lZGlhbmFfZGlhcyI6IHJvdW5kKGdbImRpYXMiXS5tZWRpYW4oKSwgMSksCiAgICAgICAgICAgICJhbnRpY2lwYWNpb25fbWVkaWFuYV9kaWFzIjogcm91bmQoZ1sibGVhZCJdLm1lZGlhbigpKSwKICAgICAgICAgICAgInRhcmlmYV9kaWFyaWFfbWVkaWFuYSI6IHJvdW5kKGdbInRhcmlmYSJdLm1lZGlhbigpKSwKICAgICAgICAgICAgInBjdF9vbmVfd2F5Ijogcm91bmQoMTAwICogZ1sib25lX3dheSJdLm1lYW4oKSwgMSksCiAgICAgICAgfSkKICAgIHBkLkRhdGFGcmFtZShyb3dzKS50b19jc3YoT1VUIC8gIm9mZmljZXMuY3N2IiwgaW5kZXg9RmFsc2UpCgogICAgIyAyKSBDYXRlZ29yw61hcwogICAgY2F0cyA9IFtdCiAgICBmb3IgYywgZyBpbiBkZi5ncm91cGJ5KCJjYXQiKToKICAgICAgICBjYXRzLmFwcGVuZCh7CiAgICAgICAgICAgICJjYXRlZ29yaWEiOiBjLAogICAgICAgICAgICAiY2xhc2VzX2FjcmlzcyI6ICIgIi5qb2luKHNvcnRlZChnWyJDbGFzZSJdLnVuaXF1ZSgpKSksCiAgICAgICAgICAgICJwZXNvX2RlbWFuZGFfcGN0Ijogcm91bmQoMTAwICogbGVuKGcpIC8gbiwgMSksCiAgICAgICAgICAgICJ0YXJpZmFfcDEwIjogcm91bmQoZ1sidGFyaWZhIl0ucXVhbnRpbGUoMC4xMCkpLAogICAgICAgICAgICAidGFyaWZhX21lZGlhbmEiOiByb3VuZChnWyJ0YXJpZmEiXS5tZWRpYW4oKSksCiAgICAgICAgICAgICJ0YXJpZmFfcDkwIjogcm91bmQoZ1sidGFyaWZhIl0ucXVhbnRpbGUoMC45MCkpLAogICAgICAgICAgICAiZHVyYWNpb25fbWVkaWFuYV9kaWFzIjogcm91bmQoZ1siZGlhcyJdLm1lZGlhbigpLCAxKSwKICAgICAgICB9KQogICAgcGQuRGF0YUZyYW1lKGNhdHMpLnNvcnRfdmFsdWVzKCJwZXNvX2RlbWFuZGFfcGN0IiwgYXNjZW5kaW5nPUZhbHNlKS50b19jc3YoCiAgICAgICAgT1VUIC8gImNhdGVnb3JpZXMuY3N2IiwgaW5kZXg9RmFsc2UpCgogICAgIyAzKSBDYW5hbGVzCiAgICBjaHMgPSBbXQogICAgZm9yIGMsIGcgaW4gZGYuZ3JvdXBieSgiY2FuYWwiKToKICAgICAgICBjaHMuYXBwZW5kKHsKICAgICAgICAgICAgImNhbmFsIjogYywKICAgICAgICAgICAgInBlc29fcmVzZXJ2YXNfcGN0Ijogcm91bmQoMTAwICogbGVuKGcpIC8gbiwgMSksCiAgICAgICAgICAgICJhbnRpY2lwYWNpb25fbWVkaWFuYV9kaWFzIjogcm91bmQoZ1sibGVhZCJdLm1lZGlhbigpKSwKICAgICAgICAgICAgInRhcmlmYV9kaWFyaWFfbWVkaWFuYSI6IHJvdW5kKGdbInRhcmlmYSJdLm1lZGlhbigpKSwKICAgICAgICAgICAgImR1cmFjaW9uX21lZGlhbmFfZGlhcyI6IHJvdW5kKGdbImRpYXMiXS5tZWRpYW4oKSwgMSksCiAgICAgICAgICAgICJwY3RfY29uX3Z1ZWxvIjogcm91bmQoMTAwICogZ1siTsK6IGRlIHZ1ZWxvIl0ubm90bmEoKS5tZWFuKCksIDEpLAogICAgICAgIH0pCiAgICBwZC5EYXRhRnJhbWUoY2hzKS5zb3J0X3ZhbHVlcygicGVzb19yZXNlcnZhc19wY3QiLCBhc2NlbmRpbmc9RmFsc2UpLnRvX2NzdigKICAgICAgICBPVVQgLyAiY2hhbm5lbHMuY3N2IiwgaW5kZXg9RmFsc2UpCgogICAgIyA0KSBQZXJmaWwgZGUgZGVtYW5kYSAodW5hIHNvbGEgc2VtYW5hOiByZWZlcmVuY2lhLCBubyBlc3RhY2lvbmFsaWRhZCkKICAgIGRvdyA9IGRmWyJyZWMiXS5kdC5kYXlvZndlZWsudmFsdWVfY291bnRzKG5vcm1hbGl6ZT1UcnVlKS5zb3J0X2luZGV4KCkgKiAxMDAKICAgIG5vbWJyZXMgPSBbImx1bmVzIiwgIm1hcnRlcyIsICJtaWVyY29sZXMiLCAianVldmVzIiwgInZpZXJuZXMiLCAic2FiYWRvIiwgImRvbWluZ28iXQogICAgcGQuRGF0YUZyYW1lKHsiZGlhIjogbm9tYnJlcywgInBjdF9yZWNvZ2lkYXMiOiBkb3cucm91bmQoMSkudmFsdWVzfSkudG9fY3N2KAogICAgICAgIE9VVCAvICJkZW1hbmRfcHJvZmlsZV9kb3cuY3N2IiwgaW5kZXg9RmFsc2UpCiAgICBociA9IChkZlsicmVjIl0uZHQuaG91ci52YWx1ZV9jb3VudHMobm9ybWFsaXplPVRydWUpLnNvcnRfaW5kZXgoKSAqIDEwMCkucm91bmQoMSkKICAgIGhyLnJlbmFtZV9heGlzKCJob3JhIikucmVuYW1lKCJwY3RfcmVjb2dpZGFzIikucmVzZXRfaW5kZXgoKS50b19jc3YoCiAgICAgICAgT1VUIC8gImRlbWFuZF9wcm9maWxlX2hvdXIuY3N2IiwgaW5kZXg9RmFsc2UpCgogICAgcHJpbnQoZiJPSzoge259IHJlc2VydmFzIGFncmVnYWRhcyAtPiB7T1VUfSIpCgoKaWYgX19uYW1lX18gPT0gIl9fbWFpbl9fIjoKICAgIGlmIGxlbihzeXMuYXJndikgbm90IGluICgyLCAzKToKICAgICAgICBzeXMuZXhpdChfX2RvY19fKQogICAgbWFpbihzeXMuYXJndlsxXSwgUGF0aChzeXMuYXJndlsyXSkgaWYgbGVuKHN5cy5hcmd2KSA9PSAzIGVsc2UgREVGQVVMVF9NQVApCg==
+"""Calibra el diseño de la operación a partir de un manifiesto semanal de reservas.
+
+USO (local; los archivos reales NUNCA se suben al repositorio):
+    python scripts/calibrate_from_manifest.py data/raw/manifest.xlsx [data/raw/office_map.json]
+
+El mapa de oficinas (código real -> sede y marca genérica) vive en data/raw/,
+que está en .gitignore. Ver data/design/office_map.example.json.
+
+Salida: tablas AGREGADAS en data/design/ (porcentajes y medianas redondeadas).
+No se escribe ningún nombre, número de reserva ni dato personal.
+"""
+import json
+import sys
+from pathlib import Path
+
+import pandas as pd
+
+OUT = Path(__file__).resolve().parent.parent / "data" / "design"
+
+ROOT = Path(__file__).resolve().parent.parent
+DEFAULT_MAP = ROOT / "data" / "raw" / "office_map.json"
+BRANDS = {"Alamo", "Enterprise", "National"}  # valores del campo "Reservado por" que son la marca (canal directo)
+
+
+def categoria(clase: str) -> str:
+    """Agrupa el código ACRISS (46 clases) en 8 categorías sintéticas."""
+    size, tipo = clase[0], clase[1]
+    if tipo in "VK":
+        return "VAN"
+    if tipo == "J":
+        return "4X4_JEEP"
+    if tipo in "PQ":
+        return "SUV_GRANDE"  # pickups: muy pocas, se funden con la categoría grande
+    if tipo in "FGR":
+        return {"E": "SUV_COMPACTO", "C": "SUV_COMPACTO", "M": "SUV_COMPACTO",
+                "I": "SUV_INTERMEDIO", "S": "SUV_ESTANDAR",
+                "F": "SUV_GRANDE"}.get(size, "SUV_PREMIUM")
+    return "AUTO"
+
+
+def canal(row) -> str:
+    if pd.notna(row["Agencia de recom."]):
+        return "AGENCIA"
+    if row["Reservado por"] in BRANDS:
+        return "MARCA_DIRECTO"
+    return "AGENTE_MOSTRADOR"
+
+
+def main(path: str, map_path: Path = DEFAULT_MAP) -> None:
+    # {"codigo_real": ["SEDE", "OFICINA_ID", "MARCA_ID"]}
+    offices = json.loads(Path(map_path).read_text(encoding="utf-8"))
+    df = pd.read_excel(path)
+    df.columns = [str(c).strip() for c in df.columns]
+    df = df[~df["Nombre"].astype(str).str.contains("TEST", na=False)].copy()  # registros de prueba
+
+    f = "%d/%m/%Y %H:%M"
+    df["rec"] = pd.to_datetime(df["Fecha recogida"], format=f)
+    df["ent"] = pd.to_datetime(df["Fecha entrega"], format=f)
+    df["res"] = pd.to_datetime(df["Fecha de reserva"], format=f)
+    df["dias"] = (df["ent"] - df["rec"]).dt.total_seconds() / 86400
+    df["lead"] = (df["rec"] - df["res"]).dt.total_seconds() / 86400
+    df["tarifa"] = pd.to_numeric(df["Tarifa diaria"], errors="coerce")
+    df["cat"] = df["Clase"].map(categoria)
+    df["canal"] = df.apply(canal, axis=1)
+    df["one_way"] = df["Ubic. rec."] != df["Ubic. ent."]
+    n = len(df)
+
+    # 1) Oficinas
+    rows = []
+    for code, (sede, oficina_id, marca) in offices.items():
+        g = df[df["Ubic. rec."] == code]
+        rows.append({
+            "oficina_id": oficina_id, "sede": sede, "marca": marca,
+            "peso_demanda_pct": round(100 * len(g) / n, 1),
+            "duracion_mediana_dias": round(g["dias"].median(), 1),
+            "anticipacion_mediana_dias": round(g["lead"].median()),
+            "tarifa_diaria_mediana": round(g["tarifa"].median()),
+            "pct_one_way": round(100 * g["one_way"].mean(), 1),
+        })
+    pd.DataFrame(rows).to_csv(OUT / "offices.csv", index=False)
+
+    # 2) Categorías
+    cats = []
+    for c, g in df.groupby("cat"):
+        cats.append({
+            "categoria": c,
+            "clases_acriss": " ".join(sorted(g["Clase"].unique())),
+            "peso_demanda_pct": round(100 * len(g) / n, 1),
+            "tarifa_p10": round(g["tarifa"].quantile(0.10)),
+            "tarifa_mediana": round(g["tarifa"].median()),
+            "tarifa_p90": round(g["tarifa"].quantile(0.90)),
+            "duracion_mediana_dias": round(g["dias"].median(), 1),
+        })
+    pd.DataFrame(cats).sort_values("peso_demanda_pct", ascending=False).to_csv(
+        OUT / "categories.csv", index=False)
+
+    # 3) Canales
+    chs = []
+    for c, g in df.groupby("canal"):
+        chs.append({
+            "canal": c,
+            "peso_reservas_pct": round(100 * len(g) / n, 1),
+            "anticipacion_mediana_dias": round(g["lead"].median()),
+            "tarifa_diaria_mediana": round(g["tarifa"].median()),
+            "duracion_mediana_dias": round(g["dias"].median(), 1),
+            "pct_con_vuelo": round(100 * g["Nº de vuelo"].notna().mean(), 1),
+        })
+    pd.DataFrame(chs).sort_values("peso_reservas_pct", ascending=False).to_csv(
+        OUT / "channels.csv", index=False)
+
+    # 4) Perfil de demanda (una sola semana: referencia, no estacionalidad)
+    dow = df["rec"].dt.dayofweek.value_counts(normalize=True).sort_index() * 100
+    nombres = ["lunes", "martes", "miercoles", "jueves", "viernes", "sabado", "domingo"]
+    pd.DataFrame({"dia": nombres, "pct_recogidas": dow.round(1).values}).to_csv(
+        OUT / "demand_profile_dow.csv", index=False)
+    hr = (df["rec"].dt.hour.value_counts(normalize=True).sort_index() * 100).round(1)
+    hr.rename_axis("hora").rename("pct_recogidas").reset_index().to_csv(
+        OUT / "demand_profile_hour.csv", index=False)
+
+    print(f"OK: {n} reservas agregadas -> {OUT}")
+
+
+if __name__ == "__main__":
+    if len(sys.argv) not in (2, 3):
+        sys.exit(__doc__)
+    main(sys.argv[1], Path(sys.argv[2]) if len(sys.argv) == 3 else DEFAULT_MAP)
