@@ -1,1 +1,10 @@
-IyBkYXRhL3JhdyDigJQgc29sbyBsb2NhbAoKRXN0YSBjYXJwZXRhIGd1YXJkYSBsb3MgYXJjaGl2b3MgcmVhbGVzIChtYW5pZmllc3RvcyBkZSByZXNlcnZhcywgbWFwYSBkZSBvZmljaW5hcykuClRvZG8gc3UgY29udGVuaWRvIGVzdMOhIGVuIGAuZ2l0aWdub3JlYDogKipudW5jYSBzZSBzdWJlIGEgR2l0SHViKiouCgpQYXJhIHJlY2FsaWJyYXIgZWwgZGlzZcOxbzoKCjEuIENvcGlhIGVsIG1hbmlmaWVzdG8gYXF1w60gKGBtYW5pZmVzdC54bHN4YCkuCjIuIENvcGlhIGBkYXRhL2Rlc2lnbi9vZmZpY2VfbWFwLmV4YW1wbGUuanNvbmAgY29tbyBgb2ZmaWNlX21hcC5qc29uYCB5IHBvbiBsb3MgY8OzZGlnb3MgcmVhbGVzIGRlIG9maWNpbmEuCjMuIEVqZWN1dGEgYHB5dGhvbiBzY3JpcHRzL2NhbGlicmF0ZV9mcm9tX21hbmlmZXN0LnB5IGRhdGEvcmF3L21hbmlmZXN0Lnhsc3hgLgo=
+# data/raw — solo local
+
+Esta carpeta guarda los archivos reales (manifiestos de reservas, mapa de oficinas).
+Todo su contenido está en `.gitignore`: **nunca se sube a GitHub**.
+
+Para recalibrar el diseño:
+
+1. Copia el manifiesto aquí (`manifest.xlsx`).
+2. Copia `data/design/office_map.example.json` como `office_map.json` y pon los códigos reales de oficina.
+3. Ejecuta `python scripts/calibrate_from_manifest.py data/raw/manifest.xlsx`.
