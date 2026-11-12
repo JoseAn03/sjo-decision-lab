@@ -1,1 +1,12 @@
-IyBDaGFuZ2Vsb2cKCkZvcm1hdG8gYmFzYWRvIGVuIFtLZWVwIGEgQ2hhbmdlbG9nXShodHRwczovL2tlZXBhY2hhbmdlbG9nLmNvbS9lcy1FUy8xLjEuMC8pLgoKIyMgW1VucmVsZWFzZWRdCgojIyBbMC4xLjBdIC0gMjAyNi0xMS0xMQojIyMgQWRkZWQKLSBNaXNpw7NuIDE6IGRvY3VtZW50byBkZSBkaXNlw7FvIGRlIGxhIG9wZXJhY2nDs24gKGBkb2NzLzAxLWRpc2Vuby1vcGVyYWNpb24ubWRgKS4KLSBUYWJsYXMgZGUgZGlzZcOxbzogc2VkZXMsIG9maWNpbmFzLCBjYXRlZ29yw61hcywgY2FuYWxlcyB5IHBlcmZpbCBkZSBkZW1hbmRhIChgZGF0YS9kZXNpZ24vYCkuCi0gU2NyaXB0IGRlIGNhbGlicmFjacOzbiBkZXNkZSB1biBtYW5pZmllc3RvIHNlbWFuYWwgKGBzY3JpcHRzL2NhbGlicmF0ZV9mcm9tX21hbmlmZXN0LnB5YCkuCi0gVmFsaWRhZG9yIGRlIHRhYmxhcyB5IENJIGVuIEdpdEh1YiBBY3Rpb25zLgo=
+# Changelog
+
+Formato basado en [Keep a Changelog](https://keepachangelog.com/es-ES/1.1.0/).
+
+## [Unreleased]
+
+## [0.1.0] - 2026-11-11
+### Added
+- Misión 1: documento de diseño de la operación (`docs/01-diseno-operacion.md`).
+- Tablas de diseño: sedes, oficinas, categorías, canales y perfil de demanda (`data/design/`).
+- Script de calibración desde un manifiesto semanal (`scripts/calibrate_from_manifest.py`).
+- Validador de tablas y CI en GitHub Actions.
