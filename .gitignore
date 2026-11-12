@@ -1,1 +1,20 @@
-IyBEYXRvcyByZWFsZXM6IE5VTkNBIHNlIHZlcnNpb25hbgpkYXRhL3Jhdy8qCiFkYXRhL3Jhdy9SRUFETUUubWQKKi54bHN4CioueGxzCioueGxzbQoKIyBQeXRob24KX19weWNhY2hlX18vCioucHlbY29kXQoudmVudi8KdmVudi8KLmlweW5iX2NoZWNrcG9pbnRzLwoucHl0ZXN0X2NhY2hlLwoKIyBFbnRvcm5vIHkgc2lzdGVtYQouZW52Ci5EU19TdG9yZQoudnNjb2RlLwouaWRlYS8K
+# Datos reales: NUNCA se versionan
+data/raw/*
+!data/raw/README.md
+*.xlsx
+*.xls
+*.xlsm
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.ipynb_checkpoints/
+.pytest_cache/
+
+# Entorno y sistema
+.env
+.DS_Store
+.vscode/
+.idea/
