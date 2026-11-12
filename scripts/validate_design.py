@@ -1,1 +1,58 @@
-IiIiVmFsaWRhIGxhIGludGVncmlkYWQgZGUgbGFzIHRhYmxhcyBkZSBkaXNlw7FvIChkYXRhL2Rlc2lnbi8pLiBTZSBlamVjdXRhIGVuIENJLiIiIgppbXBvcnQgc3lzCmZyb20gcGF0aGxpYiBpbXBvcnQgUGF0aAoKaW1wb3J0IHBhbmRhcyBhcyBwZAoKRCA9IFBhdGgoX19maWxlX18pLnJlc29sdmUoKS5wYXJlbnQucGFyZW50IC8gImRhdGEiIC8gImRlc2lnbiIKVE9MID0gMC41ICAjIGxvcyBwb3JjZW50YWplcyBlc3TDoW4gcmVkb25kZWFkb3MgYSAxIGRlY2ltYWwKZXJyb3JlcyA9IFtdCgoKZGVmIGxlZXIobm9tYnJlLCBjb2x1bW5hcyk6CiAgICBkZiA9IHBkLnJlYWRfY3N2KEQgLyBub21icmUpCiAgICBmYWx0YW4gPSBzZXQoY29sdW1uYXMpIC0gc2V0KGRmLmNvbHVtbnMpCiAgICBpZiBmYWx0YW46CiAgICAgICAgZXJyb3Jlcy5hcHBlbmQoZiJ7bm9tYnJlfTogZmFsdGFuIGNvbHVtbmFzIHtzb3J0ZWQoZmFsdGFuKX0iKQogICAgcmV0dXJuIGRmCgoKZGVmIHN1bWFfMTAwKGRmLCBjb2wsIG5vbWJyZSk6CiAgICB0b3RhbCA9IGRmW2NvbF0uc3VtKCkKICAgIGlmIGFicyh0b3RhbCAtIDEwMCkgPiBUT0w6CiAgICAgICAgZXJyb3Jlcy5hcHBlbmQoZiJ7bm9tYnJlfToge2NvbH0gc3VtYSB7dG90YWw6LjFmfSwgc2UgZXNwZXJhYmEgMTAwIikKCgpzaXRlcyA9IGxlZXIoInNpdGVzLmNzdiIsIFsic2VkZSIsICJub21icmUiLCAidGlwbyJdKQpvZmZpY2VzID0gbGVlcigib2ZmaWNlcy5jc3YiLCBbIm9maWNpbmFfaWQiLCAic2VkZSIsICJtYXJjYSIsICJwZXNvX2RlbWFuZGFfcGN0Il0pCmNhdHMgPSBsZWVyKCJjYXRlZ29yaWVzLmNzdiIsIFsiY2F0ZWdvcmlhIiwgImNsYXNlc19hY3Jpc3MiLCAicGVzb19kZW1hbmRhX3BjdCIsICJ0YXJpZmFfcDEwIiwgInRhcmlmYV9tZWRpYW5hIiwgInRhcmlmYV9wOTAiXSkKY2hhbnMgPSBsZWVyKCJjaGFubmVscy5jc3YiLCBbImNhbmFsIiwgInBlc29fcmVzZXJ2YXNfcGN0Il0pCmRvdyA9IGxlZXIoImRlbWFuZF9wcm9maWxlX2Rvdy5jc3YiLCBbImRpYSIsICJwY3RfcmVjb2dpZGFzIl0pCmhvdXIgPSBsZWVyKCJkZW1hbmRfcHJvZmlsZV9ob3VyLmNzdiIsIFsiaG9yYSIsICJwY3RfcmVjb2dpZGFzIl0pCgpzdW1hXzEwMChvZmZpY2VzLCAicGVzb19kZW1hbmRhX3BjdCIsICJvZmZpY2VzLmNzdiIpCnN1bWFfMTAwKGNhdHMsICJwZXNvX2RlbWFuZGFfcGN0IiwgImNhdGVnb3JpZXMuY3N2IikKc3VtYV8xMDAoY2hhbnMsICJwZXNvX3Jlc2VydmFzX3BjdCIsICJjaGFubmVscy5jc3YiKQpzdW1hXzEwMChkb3csICJwY3RfcmVjb2dpZGFzIiwgImRlbWFuZF9wcm9maWxlX2Rvdy5jc3YiKQpzdW1hXzEwMChob3VyLCAicGN0X3JlY29naWRhcyIsICJkZW1hbmRfcHJvZmlsZV9ob3VyLmNzdiIpCgppZiBub3Qgc2V0KG9mZmljZXNbInNlZGUiXSkgPD0gc2V0KHNpdGVzWyJzZWRlIl0pOgogICAgZXJyb3Jlcy5hcHBlbmQoIm9mZmljZXMuY3N2OiBoYXkgc2VkZXMgcXVlIG5vIGV4aXN0ZW4gZW4gc2l0ZXMuY3N2IikKaWYgb2ZmaWNlc1sib2ZpY2luYV9pZCJdLmR1cGxpY2F0ZWQoKS5hbnkoKToKICAgIGVycm9yZXMuYXBwZW5kKCJvZmZpY2VzLmNzdjogb2ZpY2luYV9pZCBkdXBsaWNhZG8iKQppZiBub3QgKChjYXRzWyJ0YXJpZmFfcDEwIl0gPD0gY2F0c1sidGFyaWZhX21lZGlhbmEiXSkgJiAoY2F0c1sidGFyaWZhX21lZGlhbmEiXSA8PSBjYXRzWyJ0YXJpZmFfcDkwIl0pKS5hbGwoKToKICAgIGVycm9yZXMuYXBwZW5kKCJjYXRlZ29yaWVzLmNzdjogdGFyaWZhcyBmdWVyYSBkZSBvcmRlbiBwMTAgPD0gbWVkaWFuYSA8PSBwOTAiKQoKIyBHdWFyZGlhIGRlIHByaXZhY2lkYWQ6IG5pbmd1bmEgdGFibGEgZGViZSB0cmFlciBjb2x1bW5hcyBjb24gZGF0b3MgcGVyc29uYWxlcwpwcm9oaWJpZGFzID0geyJub21icmVfY2xpZW50ZSIsICJjbGllbnRlIiwgIm5fcmVzZXJ2YSIsICJyZXNlcnZhIiwgImVtYWlsIiwgInRlbGVmb25vIiwgImNlZHVsYSJ9CmZvciBhcmNoaXZvIGluIEQuZ2xvYigiKi5jc3YiKToKICAgIGNvbHMgPSB7Yy5sb3dlcigpIGZvciBjIGluIHBkLnJlYWRfY3N2KGFyY2hpdm8sIG5yb3dzPTApLmNvbHVtbnN9CiAgICBpZiBjb2xzICYgcHJvaGliaWRhczoKICAgICAgICBlcnJvcmVzLmFwcGVuZChmInthcmNoaXZvLm5hbWV9OiBjb2x1bW5hcyBzb3NwZWNob3NhcyB7c29ydGVkKGNvbHMgJiBwcm9oaWJpZGFzKX0iKQoKaWYgZXJyb3JlczoKICAgIHByaW50KCJGQUxMw5MgbGEgdmFsaWRhY2nDs246IikKICAgIGZvciBlIGluIGVycm9yZXM6CiAgICAgICAgcHJpbnQoIiAtIiwgZSkKICAgIHN5cy5leGl0KDEpCnByaW50KCJPSzogdGFibGFzIGRlIGRpc2XDsW8gdsOhbGlkYXMiKQo=
+"""Valida la integridad de las tablas de diseño (data/design/). Se ejecuta en CI."""
+import sys
+from pathlib import Path
+
+import pandas as pd
+
+D = Path(__file__).resolve().parent.parent / "data" / "design"
+TOL = 0.5  # los porcentajes están redondeados a 1 decimal
+errores = []
+
+
+def leer(nombre, columnas):
+    df = pd.read_csv(D / nombre)
+    faltan = set(columnas) - set(df.columns)
+    if faltan:
+        errores.append(f"{nombre}: faltan columnas {sorted(faltan)}")
+    return df
+
+
+def suma_100(df, col, nombre):
+    total = df[col].sum()
+    if abs(total - 100) > TOL:
+        errores.append(f"{nombre}: {col} suma {total:.1f}, se esperaba 100")
+
+
+sites = leer("sites.csv", ["sede", "nombre", "tipo"])
+offices = leer("offices.csv", ["oficina_id", "sede", "marca", "peso_demanda_pct"])
+cats = leer("categories.csv", ["categoria", "clases_acriss", "peso_demanda_pct", "tarifa_p10", "tarifa_mediana", "tarifa_p90"])
+chans = leer("channels.csv", ["canal", "peso_reservas_pct"])
+dow = leer("demand_profile_dow.csv", ["dia", "pct_recogidas"])
+hour = leer("demand_profile_hour.csv", ["hora", "pct_recogidas"])
+
+suma_100(offices, "peso_demanda_pct", "offices.csv")
+suma_100(cats, "peso_demanda_pct", "categories.csv")
+suma_100(chans, "peso_reservas_pct", "channels.csv")
+suma_100(dow, "pct_recogidas", "demand_profile_dow.csv")
+suma_100(hour, "pct_recogidas", "demand_profile_hour.csv")
+
+if not set(offices["sede"]) <= set(sites["sede"]):
+    errores.append("offices.csv: hay sedes que no existen en sites.csv")
+if offices["oficina_id"].duplicated().any():
+    errores.append("offices.csv: oficina_id duplicado")
+if not ((cats["tarifa_p10"] <= cats["tarifa_mediana"]) & (cats["tarifa_mediana"] <= cats["tarifa_p90"])).all():
+    errores.append("categories.csv: tarifas fuera de orden p10 <= mediana <= p90")
+
+# Guardia de privacidad: ninguna tabla debe traer columnas con datos personales
+prohibidas = {"nombre_cliente", "cliente", "n_reserva", "reserva", "email", "telefono", "cedula"}
+for archivo in D.glob("*.csv"):
+    cols = {c.lower() for c in pd.read_csv(archivo, nrows=0).columns}
+    if cols & prohibidas:
+        errores.append(f"{archivo.name}: columnas sospechosas {sorted(cols & prohibidas)}")
+
+if errores:
+    print("FALLÓ la validación:")
+    for e in errores:
+        print(" -", e)
+    sys.exit(1)
+print("OK: tablas de diseño válidas")
